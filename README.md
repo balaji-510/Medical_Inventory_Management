@@ -62,8 +62,7 @@ This project provides an intuitive and scalable inventory management system tail
 
 ## 📽️ Demo Video
 
-🎬 [Watch the product walkthrough](#)  
-*(https://drive.google.com/file/d/1wl9Q7XZ6qg6vgHKphBI-30DLMTqUTfAh/view?usp=sharing)*
+🎬 [Watch the product walkthrough](https://drive.google.com/file/d/1wl9Q7XZ6qg6vgHKphBI-30DLMTqUTfAh/view?usp=sharing)
 
 ---
 
